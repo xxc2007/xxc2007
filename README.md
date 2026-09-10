@@ -2,7 +2,7 @@
 
 我还没写出改变世界的代码。
 
-但用 AI 做出了自己的第一个网站——把离开的母校装进一个可以随时回去的地址：25 张校园实景摄影、八个机位的时光漫游、一张中文定位图、一面无需登录的留言墙。
+但用 AI 做出了自己的第一个网站——把母校装进一个可以随时回去的网页：25 张校园实景摄影、八个机位的时光漫游、一张中文定位图、一面无需登录的留言墙。
 
 设计、前端、GIS 制图、部署运维，全部 AI 协作完成。我负责想清楚要纪念什么。
 
@@ -20,14 +20,14 @@
 
 南昌市第十五中学的私人纪念页。纯 HTML / CSS / Vanilla JS，结构·样式·行为三分离，零框架、无构建步骤。照片全部自己拍摄，留言墙自托管——这是一次「一个人 + AI」完成整站的完整实践。
 
-[![青山湖畔的纪念册](https://raw.githubusercontent.com/xxc2007/xxc2007/main/assets/banner-memorial.svg?v=2)](https://github.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School)
+[![青山湖畔的纪念册](https://raw.githubusercontent.com/xxc2007/xxc2007/main/assets/banner-memorial.svg?v=3)](https://github.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School)
 
 [![Live Site](https://img.shields.io/badge/🌐_线上访问-xxc2007.me-D97757)](https://xxc2007.me)
 [![Repo](https://img.shields.io/badge/仓库-In--memory--of--Nanchang--No.--15-1F1E1D)](https://github.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School)
 
 **GIS 学习与制图实践 · 让地理数据开口说话**
 
-地理科学专业在读，方向是 GIS、遥感、地貌学与地图学。常用 ArcGIS / QGIS 做空间分析，用 MapLibre GL 做中文Web地图，关注河流地貌与青藏高原瞬态地貌的数字化表达。正在把课程作业沉淀为可复现的开源工作流。
+地理科学专业在读，方向是 GIS 与遥感，关注青藏高原地区的气候变化及其带来的影响。常用 ArcGIS / QGIS 做空间分析，用 MapLibre GL 做中文 Web 地图，正在把课程作业沉淀为可复现的开源工作流。
 
 **用 AI 做杠杆 · 每个作品都是一次真实问题的解决**
 
@@ -54,11 +54,3 @@
 **主要阵地** · [xxc2007.me](https://xxc2007.me) · [GitHub](https://github.com/xxc2007)
 
 **社交平台** · [X @xxc2007](https://x.com/xxc2007) · [YouTube @xxc2007](https://www.youtube.com/@xxc2007)
-
----
-
-<div align="center">
-
-*"所谓母校，就是那座你离开之后才开始无限怀念的校园。"*
-
-</div>
