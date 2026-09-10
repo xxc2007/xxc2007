@@ -20,6 +20,8 @@
 
 南昌市第十五中学的私人纪念页。纯 HTML / CSS / Vanilla JS，结构·样式·行为三分离，零框架、无构建步骤。照片全部自己拍摄，留言墙自托管——这是一次「一个人 + AI」完成整站的完整实践。
 
+[![青山湖畔的纪念册](https://raw.githubusercontent.com/xxc2007/xxc2007/main/assets/banner-memorial.svg)](https://github.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School)
+
 [![Live Site](https://img.shields.io/badge/🌐_线上访问-xxc2007.me-D97757)](https://xxc2007.me)
 [![Repo](https://img.shields.io/badge/仓库-In--memory--of--Nanchang--No.--15-1F1E1D)](https://github.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School)
 
