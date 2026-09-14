@@ -28,13 +28,13 @@
 这本纪念册现在也有了一支 **35 秒宣传片**：从真实首屏出发，经过沿革、校园摄影、水塔、八机位地图和隐私安全的留言墙演示，最后把整本网页重新收束到一起。视频随站点仓库公开，既是作品的入口，也是一次把网页状态、动效和声音都做成可观看叙事的实验。
 
 <p align="center">
-  <a href="https://xxc2007.github.io/In-memory-of-Nanchang-No.-15-Middle-School/promo/">
+  <a href="https://xxc2007.me/promo/">
     <img src="https://raw.githubusercontent.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/main/docs/screenshot-hero.png" alt="点击进入宣传片在线播放页" width="100%">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://xxc2007.github.io/In-memory-of-Nanchang-No.-15-Middle-School/promo/">▶ 点击播放宣传片（无需登录）</a> · <a href="https://raw.githubusercontent.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/main/docs/promo/nanchang15-promo.mp4">直接打开 MP4</a>
+  <a href="https://xxc2007.me/promo/">▶ 点击播放宣传片（无需登录）</a> · <a href="https://raw.githubusercontent.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/main/docs/promo/nanchang15-promo.mp4">直接打开 MP4</a>
 </p>
 
 **GIS 学习与制图实践 · 让地理数据开口说话**
