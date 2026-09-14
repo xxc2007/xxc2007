@@ -27,9 +27,9 @@
 
 这本纪念册现在也有了一支 **35 秒宣传片**：从真实首屏出发，经过沿革、校园摄影、水塔、八机位地图和隐私安全的留言墙演示，最后把整本网页重新收束到一起。视频随站点仓库公开，既是作品的入口，也是一次把网页状态、动效和声音都做成可观看叙事的实验。
 
-<p align="center"><strong>GitHub README 原生播放器 · 点击控件即可播放</strong></p>
+<p align="center"><strong>点击下方播放器即可在线播放（无需登录）</strong></p>
 
-<video controls width="100%" src="https://raw.githubusercontent.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/main/docs/promo/nanchang15-promo-readme.mp4"></video>
+https://github.com/user-attachments/assets/75696dc0-9825-4f96-a0af-ebcd60b1a23d
 
 <p align="center"><sub>720p README 预览保留完整音轨 · <a href="https://xxc2007.me/promo/">打开高清在线播放器（无需登录）</a> · <a href="https://raw.githubusercontent.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/main/docs/promo/nanchang15-promo.mp4">直接打开 1080p MP4</a></sub></p>
 
