@@ -27,21 +27,13 @@
 
 这本纪念册现在也有了一支 **35 秒宣传片**：从真实首屏出发，经过沿革、校园摄影、水塔、八机位地图和隐私安全的留言墙演示，最后把整本网页重新收束到一起。视频随站点仓库公开，既是作品的入口，也是一次把网页状态、动效和声音都做成可观看叙事的实验。
 
-<p align="center"><strong>点击下方播放器即可在线播放（无需登录）</strong></p>
+点击下方播放器即可在线播放。
 
-https://github.com/user-attachments/assets/75696dc0-9825-4f96-a0af-ebcd60b1a23d
+https://github.com/user-attachments/assets/368cc8d5-2605-4444-949f-fe6b7a017408
 
-<p align="center"><sub>720p README 预览保留完整音轨 · <a href="https://xxc2007.me/promo/">打开高清在线播放器（无需登录）</a> · <a href="https://raw.githubusercontent.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/main/docs/promo/nanchang15-promo.mp4">直接打开 1080p MP4</a></sub></p>
+▶️ [打开 1080p 高清播放器](https://xxc2007.me/promo/) · [直接打开 1080p 源视频](https://raw.githubusercontent.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/main/docs/promo/nanchang15-promo.mp4)
 
-<p align="center">
-  <a href="https://xxc2007.me/promo/">
-    <img src="https://raw.githubusercontent.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/main/docs/screenshot-hero.png" alt="宣传片播放器封面" width="100%">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://xxc2007.me/promo/">▶ 打开高清宣传片（无需登录）</a>
-</p>
+README 原生预览保持 1920×1080 分辨率；独立播放器与源视频链接继续直接使用纪念册仓库中的 1080p 完整片。
 
 **GIS 学习与制图实践 · 让地理数据开口说话**
 
