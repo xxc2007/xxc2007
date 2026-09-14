@@ -25,6 +25,15 @@
 [![Live Site](https://img.shields.io/badge/🌐_线上访问-xxc2007.me-D97757)](https://xxc2007.me)
 [![Repo](https://img.shields.io/badge/仓库-In--memory--of--Nanchang--No.--15-1F1E1D)](https://github.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School)
 
+这本纪念册现在也有了一支 **35 秒宣传片**：从真实首屏出发，经过沿革、校园摄影、水塔、八机位地图和隐私安全的留言墙演示，最后把整本网页重新收束到一起。视频随站点仓库公开，既是作品的入口，也是一次把网页状态、动效和声音都做成可观看叙事的实验。
+
+<p align="center">
+  <video controls preload="metadata" poster="https://raw.githubusercontent.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/main/docs/screenshot-hero.png" width="100%">
+    <source src="https://raw.githubusercontent.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/main/docs/promo/nanchang15-promo.mp4" type="video/mp4">
+    <a href="https://github.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/blob/main/docs/promo/nanchang15-promo.mp4">观看 / 下载宣传片（MP4）</a>
+  </video>
+</p>
+
 **GIS 学习与制图实践 · 让地理数据开口说话**
 
 地理科学专业在读，方向是 GIS 与遥感，关注青藏高原地区的气候变化及其带来的影响。常用 ArcGIS / QGIS 做空间分析，用 MapLibre GL 做中文 Web 地图，正在把课程作业沉淀为可复现的开源工作流。
