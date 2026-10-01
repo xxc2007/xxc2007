@@ -35,6 +35,17 @@ https://github.com/user-attachments/assets/368cc8d5-2605-4444-949f-fe6b7a017408
 
 README 原生预览保持 1920×1080 分辨率；独立播放器与源视频链接继续直接使用纪念册仓库中的 1080p 完整片。
 
+**GEOHOT 地理热点 · 把地理热点做成每天早上更新的地址**
+
+盯住台站、卫星机构、统计与区划部门、期刊和研究者的信源：采集、预筛、两次独立打分、按**空间显著性**定门槛，把同一件事的多方报道并成一个事件，每天早上 8 点出一份地理日报。它建在开源框架 AIHOT 之上，行业层换成了地理——引擎一行不改，站名、教材式六分类、信源与评分标准全在 `industry/` 一个文件夹里。站上没有配任何 LLM Key：入选判断是人工写在 fixture 里的编辑决定，而闸门（预筛、两次打分、门槛、归并、热度）全部走真实代码。本地 173 项后端测试 / 16 项前端测试 / 30 项冒烟检查全绿；**尚未部署到公网**。
+
+[![GEOHOT 地理热点](https://raw.githubusercontent.com/xxc2007/xxc2007/main/assets/banner-geohot.svg?v=1)](https://github.com/xxc2007/GeoHot)
+
+[![Repo](https://img.shields.io/badge/仓库-GeoHot-1F1E1D)](https://github.com/xxc2007/GeoHot)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/xxc2007/GeoHot/blob/main/LICENSE)
+[![Status](https://img.shields.io/badge/状态-本地全绿_待部署-D97757)](https://github.com/xxc2007/GeoHot)
+
+
 **GIS 学习与制图实践 · 让地理数据开口说话**
 
 地理科学专业在读，方向是 GIS 与遥感，关注青藏高原地区的气候变化及其带来的影响。常用 ArcGIS / QGIS 做空间分析，用 MapLibre GL 做中文 Web 地图，正在把课程作业沉淀为可复现的开源工作流。
