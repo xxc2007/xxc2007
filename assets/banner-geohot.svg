@@ -1,0 +1,145 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GEOHOT 地理热点 — 地理垂直领域的热点追踪站">
+  <defs>
+    <clipPath id="shellClip"><rect x="560" y="42" width="450" height="276" rx="12"/></clipPath>
+  </defs>
+
+  <!-- 纸感底色（app.css 的 bg：#faf9f6） -->
+  <rect width="1200" height="400" fill="#faf9f6"/>
+
+  <!-- 版式骨架：左侧强调竖线 + 上下发丝线（无渐变，发丝线 1px） -->
+  <rect x="56" y="48" width="3" height="302" fill="#176b75"/>
+  <rect x="56" y="48" width="464" height="1" fill="#202a30" opacity="0.12"/>
+  <rect x="56" y="350" width="464" height="1" fill="#202a30" opacity="0.12"/>
+  <rect x="544" y="76" width="1" height="248" fill="#202a30" opacity="0.07"/>
+
+  <!-- ============ 左侧文本区 ============ -->
+  <text x="76" y="86" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" font-weight="700" letter-spacing="3" fill="#59656b">GEO VERTICAL HOTSPOT · 44 SOURCES · MIT</text>
+  <text x="76" y="176" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="88" font-weight="800" letter-spacing="-2" fill="#202a30">GEOHOT</text>
+  <text x="76" y="214" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="23" font-weight="600" letter-spacing="9" fill="#59656b">地理热点</text>
+  <rect x="212" y="206" width="104" height="1" fill="#dfe4e1"/>
+  <text x="76" y="262" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="22" font-weight="700" letter-spacing="0.5" fill="#202a30">把值得关注的地理动态，排成一条时间轴</text>
+  <text x="76" y="294" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13.5" font-weight="500" fill="#59656b">44 条信源 · 教材式六分类 · 时间轴信息流 · 报纸质感日报</text>
+  <rect x="76" y="364" width="6" height="6" fill="#176b75"/>
+  <text x="92" y="372" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="500" letter-spacing="1.6" fill="#59656b">geohot.local   ·   /all · /hot · /daily   ·   MIT</text>
+
+  <!-- ============ 右侧：站点真实界面的缩略（180px 侧栏 + 单列时间轴） ============ -->
+  <rect x="560" y="42" width="450" height="276" rx="12" fill="#ffffff"/>
+
+  <g clip-path="url(#shellClip)">
+    <!-- 顶栏 -->
+    <rect x="560" y="84" width="450" height="1" fill="#dfe4e1"/>
+    <!-- 180px 粘性侧栏（按比例缩到 104） -->
+    <rect x="560" y="85" width="104" height="233" fill="#f3f3ef"/>
+    <rect x="664" y="85" width="1" height="233" fill="#dfe4e1"/>
+    <!-- 时间轴竖线 -->
+    <rect x="724" y="88" width="1" height="206" fill="#dfe4e1"/>
+
+    <!-- 侧栏导航（精选 / 全部动态 / 热点榜 / 地理日报） -->
+    <rect x="574" y="97" width="4" height="4" fill="#176b75"/>
+    <text x="584" y="104" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9.5" font-weight="600" fill="#176b75">精选</text>
+    <rect x="574" y="117" width="4" height="4" fill="#202a30" opacity="0.3"/>
+    <text x="584" y="124" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9.5" font-weight="500" fill="#59656b">全部动态</text>
+    <rect x="574" y="137" width="4" height="4" fill="#202a30" opacity="0.3"/>
+    <text x="584" y="144" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9.5" font-weight="500" fill="#59656b">热点榜</text>
+    <rect x="574" y="157" width="4" height="4" fill="#202a30" opacity="0.3"/>
+    <text x="584" y="164" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9.5" font-weight="500" fill="#59656b">地理日报</text>
+    <rect x="570" y="180" width="88" height="1" fill="#dfe4e1"/>
+    <text x="574" y="196" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="8" font-weight="700" letter-spacing="1.5" fill="#59656b" opacity="0.8">六分类</text>
+    <text x="574" y="212" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9" font-weight="500" fill="#59656b">自然地理</text>
+    <text x="574" y="228" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9" font-weight="500" fill="#59656b">人文地理</text>
+    <text x="574" y="244" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9" font-weight="500" fill="#59656b">区域地理</text>
+    <text x="574" y="260" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9" font-weight="500" fill="#59656b">地理信息技术</text>
+    <text x="574" y="276" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9" font-weight="500" fill="#59656b">野外与考察</text>
+    <text x="574" y="292" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9" font-weight="500" fill="#59656b">观点与解读</text>
+
+    <!-- 当前热点卡（排名数字 + 热度） -->
+    <rect x="736" y="92" width="254" height="68" rx="10" fill="#f3f3ef" stroke="#dfe4e1" stroke-width="1"/>
+    <text x="748" y="110" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9.5" font-weight="700" fill="#202a30">当前热点</text>
+    <text x="978" y="110" text-anchor="end" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="8" font-weight="500" fill="#59656b">48 小时热度</text>
+    <text x="750" y="128" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" font-weight="700" fill="#202a30">1</text>
+    <text x="764" y="128" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="8.5" font-weight="500" fill="#59656b">赤道太平洋距平破有记录最高</text>
+    <text x="978" y="128" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="8" font-weight="500" fill="#59656b">128</text>
+    <text x="750" y="141" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" font-weight="700" fill="#59656b">2</text>
+    <text x="764" y="141" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="8.5" font-weight="500" fill="#59656b">水利部启动洪水防御四级响应</text>
+    <text x="978" y="141" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="8" font-weight="500" fill="#59656b">114</text>
+    <text x="750" y="154" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" font-weight="700" fill="#59656b">3</text>
+    <text x="764" y="154" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="8.5" font-weight="500" fill="#59656b">曼谷十日洪灾积水仍未退</text>
+    <text x="978" y="154" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="8" font-weight="500" fill="#59656b">97</text>
+
+    <!-- 时间轴第一条：时间 · 强调圆点 · 精选卡（17px 标题 / 15px 摘要 / 标签 / AI 评分） -->
+    <text x="678" y="206" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="600" fill="#59656b">09:12</text>
+    <circle cx="724" cy="181" r="6.5" fill="#faf9f6"/>
+    <circle cx="724" cy="181" r="3.2" fill="#176b75"/>
+    <rect x="736" y="166" width="254" height="84" rx="10" fill="#ffffff" stroke="#dfe4e1" stroke-width="1"/>
+    <rect x="748" y="173" width="32" height="14" rx="7" fill="#ffffff" stroke="#176b75" stroke-width="0.8"/>
+    <text x="764" y="183.5" text-anchor="middle" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="8" font-weight="600" fill="#176b75">精选</text>
+    <text x="788" y="183.5" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="8" font-weight="500" fill="#59656b">T1 信源</text>
+    <text x="748" y="206" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12.5" font-weight="700" fill="#202a30">厄尔尼诺增强：今冬强事件概率翻倍</text>
+    <text x="748" y="224" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9.5" font-weight="500" fill="#59656b">3.4 区距平 +3.1 ℃，多方独立报道</text>
+    <rect x="748" y="232" width="44" height="14" rx="7" fill="#f3f3ef" stroke="#dfe4e1" stroke-width="0.8"/>
+    <text x="770" y="242" text-anchor="middle" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="8" font-weight="500" fill="#59656b">自然地理</text>
+    <rect x="798" y="232" width="44" height="14" rx="7" fill="#f3f3ef" stroke="#dfe4e1" stroke-width="0.8"/>
+    <text x="820" y="242" text-anchor="middle" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="8" font-weight="500" fill="#59656b">灾害事件</text>
+    <rect x="908" y="232" width="62" height="14" rx="7" fill="#ffffff" stroke="#dfe4e1" stroke-width="0.8"/>
+    <text x="939" y="242" text-anchor="middle" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="8" font-weight="600" fill="#59656b">AI 评分 88</text>
+
+    <!-- 时间轴第二条 -->
+    <text x="678" y="276" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="600" fill="#59656b">08:40</text>
+    <circle cx="724" cy="270" r="6" fill="#ffffff"/>
+    <circle cx="724" cy="270" r="2.6" fill="#59656b"/>
+    <rect x="736" y="258" width="254" height="40" rx="10" fill="#ffffff" stroke="#dfe4e1" stroke-width="1"/>
+    <text x="748" y="276" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11.5" font-weight="650" fill="#202a30">海南台风过境后的灾情核查启动</text>
+    <text x="748" y="291" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9" font-weight="500" fill="#59656b">遥感影像与地面站数据同时进场</text>
+
+    <!-- 查看更多（真实界面的底部药丸） -->
+    <rect x="803" y="300" width="120" height="16" rx="8" fill="#ffffff" stroke="#d1d9d5" stroke-width="0.8"/>
+    <text x="863" y="311" text-anchor="middle" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="8.5" font-weight="500" fill="#59656b">加载更多动态</text>
+
+    <!-- 顶栏品牌：经纬之交（复用 industry/brand/logo.svg 的几何） -->
+    <g transform="translate(574,55) scale(0.046875)">
+      <rect width="512" height="512" rx="116" fill="#202a30"/>
+      <circle cx="256" cy="256" r="168" fill="#faf9f6"/>
+      <g fill="none" stroke="#202a30" stroke-width="20">
+        <path d="M108 176H404"/>
+        <path d="M88 256H424"/>
+        <path d="M108 336H404"/>
+        <ellipse cx="256" cy="256" rx="76" ry="168"/>
+      </g>
+      <circle cx="323" cy="176" r="40" fill="#176b75"/>
+    </g>
+    <text x="608" y="70" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.4" fill="#202a30">GEOHOT</text>
+    <text x="668" y="70" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9.5" font-weight="500" fill="#59656b">地理热点</text>
+    <text x="996" y="70" text-anchor="end" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="9" font-weight="500" fill="#59656b">今日更新 12 条</text>
+  </g>
+
+  <!-- 卡片描边压在内容之上（发丝线，无阴影） -->
+  <rect x="560" y="42" width="450" height="276" rx="12" fill="none" stroke="#dfe4e1" stroke-width="1"/>
+
+  <!-- ============ 日报报头（/daily 的报纸质感），叠在界面缩略的右下角 ============ -->
+  <g transform="translate(12,0)">
+  <rect x="986" y="206" width="168" height="142" rx="4" fill="none" stroke="#202a30" stroke-width="1" opacity="0.07"/>
+  <rect x="980" y="212" width="168" height="142" rx="4" fill="#ffffff" stroke="#dfe4e1" stroke-width="1"/>
+  <rect x="992" y="224" width="144" height="2" fill="#202a30" opacity="0.75"/>
+  <text x="1064" y="245" text-anchor="middle" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#202a30">地理热点日报</text>
+  <rect x="992" y="253" width="144" height="1" fill="#202a30" opacity="0.3"/>
+  <rect x="992" y="256" width="144" height="1" fill="#202a30" opacity="0.12"/>
+  <text x="998" y="284" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="21" font-weight="700" fill="#202a30">01</text>
+  <text x="1032" y="278" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="8" font-weight="500" fill="#59656b">十月 · 第 274 期</text>
+  <text x="1032" y="290" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="8" font-weight="500" fill="#59656b">每日 08:00 出刊</text>
+  <rect x="992" y="298" width="144" height="1" fill="#202a30" opacity="0.12"/>
+  <rect x="992" y="306" width="66" height="4" fill="#202a30" opacity="0.22"/>
+  <rect x="1066" y="306" width="70" height="4" fill="#202a30" opacity="0.22"/>
+  <rect x="992" y="315" width="66" height="2" fill="#202a30" opacity="0.12"/>
+  <rect x="1066" y="315" width="70" height="2" fill="#202a30" opacity="0.12"/>
+  <rect x="992" y="322" width="52" height="2" fill="#202a30" opacity="0.12"/>
+  <rect x="1066" y="322" width="58" height="2" fill="#202a30" opacity="0.12"/>
+  <rect x="992" y="329" width="62" height="2" fill="#202a30" opacity="0.12"/>
+  <rect x="1066" y="329" width="66" height="2" fill="#202a30" opacity="0.12"/>
+  <rect x="992" y="336" width="44" height="2" fill="#202a30" opacity="0.12"/>
+  <rect x="1066" y="336" width="50" height="2" fill="#202a30" opacity="0.12"/>
+  </g>
+
+  <!-- 图注（对齐纪念册 banner 的双行图注写法） -->
+  <text x="560" y="336" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.4" fill="#202a30">首页 · 180px 粘性侧栏 + 单列时间轴信息流</text>
+  <text x="560" y="352" font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="8.5" font-weight="500" letter-spacing="0.2" fill="#59656b">44 条信源 · 五维评分 · 48 小时热度窗口 · 精选由编辑署名</text>
+</svg>
