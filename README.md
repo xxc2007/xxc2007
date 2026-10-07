@@ -9,7 +9,7 @@
 <!-- STATS-START -->
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-0-1F1E1D?style=flat&logo=github&logoColor=white)](https://github.com/xxc2007)
 [![Followers](https://img.shields.io/badge/Followers-0-4C8BF5?style=flat&logo=github&logoColor=white)](https://github.com/xxc2007?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-4-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/xxc2007?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-6-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/xxc2007?tab=repositories)
 <!-- STATS-END -->
 
 ---
@@ -36,6 +36,7 @@
 
 [![Live Site](https://img.shields.io/badge/🌐_线上访问-xxc2007.me%2Fnc15-D97757)](https://xxc2007.me/nc15/)
 [![Repo](https://img.shields.io/badge/仓库-In--memory--of--Nanchang--No.--15-1F1E1D)](https://github.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School)
+[![License MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/blob/main/LICENSE)
 
 这本纪念册现在也有了一支 **35 秒宣传片**：从真实首屏出发，经过沿革、校园摄影、水塔、八机位地图和隐私安全的留言墙演示，最后把整本网页重新收束到一起。视频随站点仓库公开，既是作品的入口，也是一次把网页状态、动效和声音都做成可观看叙事的实验。
 
@@ -53,9 +54,9 @@ README 原生预览保持 1920×1080 分辨率；独立播放器与源视频链�
 
 [![GEOHOT 地理热点](https://raw.githubusercontent.com/xxc2007/xxc2007/main/assets/banner-geohot.svg?v=1)](https://github.com/xxc2007/GeoHot)
 
+[![Live](https://img.shields.io/badge/🌐_线上访问-xxc2007.me%2Fgeohot-D97757)](https://xxc2007.me/geohot/)
 [![Repo](https://img.shields.io/badge/仓库-GeoHot-1F1E1D)](https://github.com/xxc2007/GeoHot)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/xxc2007/GeoHot/blob/main/LICENSE)
-[![Live](https://img.shields.io/badge/🌐_线上访问-xxc2007.me%2Fgeohot-D97757)](https://xxc2007.me/geohot/)
 
 
 **GIS 学习与制图实践 · 让地理数据开口说话**
