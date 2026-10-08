@@ -43,9 +43,9 @@
 
 [线上访问](https://xxc2007.me/) · [开源仓库](https://github.com/xxc2007/Introduction-of-XinChen-Xiong)
 
-[![个人站宣传片](https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/docs/promo/poster.jpg)](https://xxc2007.me/assets/promo/)
+点击下方播放器即可在线播放。
 
-<!-- PROMO-NATIVE-INTRO -->
+https://github.com/user-attachments/assets/dcc5e666-2019-4937-b110-1f25e4c18b0c
 
 ▶️ [打开 1080p 高清播放器](https://xxc2007.me/assets/promo/) · [直接打开 1080p 源视频](https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/docs/promo/intro-promo.mp4)
 
@@ -71,9 +71,9 @@ https://github.com/user-attachments/assets/368cc8d5-2605-4444-949f-fe6b7a017408
 
 [线上访问](https://xxc2007.me/geohot/) · [开源仓库](https://github.com/xxc2007/GeoHot)
 
-[![GEOHOT 宣传片](https://raw.githubusercontent.com/xxc2007/GeoHot/main/docs/promo/poster.jpg)](https://xxc2007.me/assets/promo/geohot/)
+点击下方播放器即可在线播放。
 
-<!-- PROMO-NATIVE-GEOHOT -->
+https://github.com/user-attachments/assets/0f0d31b0-eaf2-4155-833e-5155f7391110
 
 ▶️ [打开 1080p 高清播放器](https://xxc2007.me/assets/promo/geohot/) · [直接打开 1080p 源视频](https://raw.githubusercontent.com/xxc2007/GeoHot/main/docs/promo/geohot-promo.mp4)
 
