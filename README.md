@@ -1,10 +1,18 @@
+<div align="center">
+
 # 熊鑫晨 · Xiong Xinchen
 
-我还没写出改变世界的代码。
+> *「我还没写出改变世界的代码。」*
 
-但用 AI 做出了自己的第一个网站——把母校装进一个可以随时回去的网页：25 张校园实景摄影、八个机位的时光漫游、一张中文定位图、一面无需登录的留言墙。
+[![个人网站](https://img.shields.io/badge/🌐_个人网站-xxc2007.me-D97757)](https://xxc2007.me/)
+[![GitHub](https://img.shields.io/badge/GitHub-@xxc2007-1F1E1D)](https://github.com/xxc2007)
+[![作品](https://img.shields.io/badge/作品-个人站_·_纪念册_·_GEOHOT-176B75)](#我在做的事)
 
-设计、前端、GIS 制图、部署运维，全部 AI 协作完成。我负责想清楚要纪念什么。
+<br>
+
+**把想清楚的事，一件一件做成可以打开的地址。**
+
+但用 AI 做出了自己的第一个网站——把母校装进一个可以随时回去的网页。后来，又做了 GEOHOT 地理热点与这张个人介绍页。设计、前端、GIS 制图与部署运维，全部 AI 协作完成。
 
 <!-- STATS-START -->
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-0-1F1E1D?style=flat&logo=github&logoColor=white)](https://github.com/xxc2007)
@@ -12,70 +20,80 @@
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-6-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/xxc2007?tab=repositories)
 <!-- STATS-END -->
 
----
-
-### 这里是我家
-
-主域名 `xxc2007.me` 现在是这张个人介绍页——中英双语，把我做出来的两个网站放在一起说清楚。它自己也是开源的，MIT 协议。
-
-[![个人介绍站](https://img.shields.io/badge/🌐_个人介绍站-xxc2007.me-D97757)](https://xxc2007.me/)
-[![Introduction of XinChen Xiong](https://img.shields.io/badge/仓库-Introduction--of--XinChen--Xiong-1F1E1D)](https://github.com/xxc2007/Introduction-of-XinChen-Xiong)
-[![License MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/xxc2007/Introduction-of-XinChen-Xiong/blob/main/LICENSE)
-
-母校那本纪念册搬到了 `xxc2007.me/nc15`，GEOHOT 还在 `xxc2007.me/geohot`。
+</div>
 
 ---
 
-### 我在做的事
+## 🎬 三个网站，三支宣传片
 
-**青山湖畔的纪念册 · 把一座校园做成可访问的地址**
+真实网页截图、克制运镜与纸面排版，把每个网站排成约 35 秒的观看路径。点击下方封面打开高清播放器。
 
-南昌市第十五中学的私人纪念页。纯 HTML / CSS / Vanilla JS，结构·样式·行为三分离，零框架、无构建步骤。照片全部自己拍摄，留言墙自托管——这是一次「一个人 + AI」完成整站的完整实践。线上地址：[xxc2007.me/nc15](https://xxc2007.me/nc15/)。
+| 个人介绍站 | 青山湖畔的纪念册 | GEOHOT 地理热点 |
+|---|---|---|
+| [![个人站宣传片](https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/docs/promo/poster.jpg)](https://xxc2007.me/assets/promo/) | [![纪念册](https://raw.githubusercontent.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/main/docs/screenshot-hero.png)](https://xxc2007.me/nc15/promo/) | [![GEOHOT 宣传片](https://raw.githubusercontent.com/xxc2007/GeoHot/main/docs/promo/poster.jpg)](https://xxc2007.me/assets/promo/geohot/) |
+| [▶ 1080p 播放](https://xxc2007.me/assets/promo/) | [▶ 1080p 播放](https://xxc2007.me/nc15/promo/) | [▶ 1080p 播放](https://xxc2007.me/assets/promo/geohot/) |
 
-[![青山湖畔的纪念册](https://raw.githubusercontent.com/xxc2007/xxc2007/main/assets/banner-memorial.svg?v=3)](https://github.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School)
+---
 
-[![Live Site](https://img.shields.io/badge/🌐_线上访问-xxc2007.me%2Fnc15-D97757)](https://xxc2007.me/nc15/)
-[![Repo](https://img.shields.io/badge/仓库-In--memory--of--Nanchang--No.--15-1F1E1D)](https://github.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School)
-[![License MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/blob/main/LICENSE)
+## 我在做的事
 
-这本纪念册现在也有了一支 **35 秒宣传片**：从真实首屏出发，经过沿革、校园摄影、水塔、八机位地图和隐私安全的留言墙演示，最后把整本网页重新收束到一起。视频随站点仓库公开，既是作品的入口，也是一次把网页状态、动效和声音都做成可观看叙事的实验。
+### 熊鑫晨的个人介绍站 · 这里是我家
 
-点击下方播放器即可在线播放。
+米白纸感、赤陶橙与衬线大字组成个人介绍页。中英两页，从“关于我”走到两个已上线作品、做事方法、信念与联系方式。
+
+[线上访问](https://xxc2007.me/) · [开源仓库](https://github.com/xxc2007/Introduction-of-XinChen-Xiong)
+
+[![个人站宣传片](https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/docs/promo/poster.jpg)](https://xxc2007.me/assets/promo/)
+
+<!-- PROMO-NATIVE-INTRO -->
+
+▶️ [打开 1080p 高清播放器](https://xxc2007.me/assets/promo/) · [直接打开 1080p 源视频](https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/docs/promo/intro-promo.mp4)
+
+---
+
+### 青山湖畔的纪念册 · 把一座校园做成可访问的地址
+
+南昌市第十五中学的私人纪念页：25 张自己拍摄的校园实景、八个机位的时光漫游、中文定位图与无需登录的留言墙。纯 HTML / CSS / 原生 JavaScript，十种语言。
+
+[线上访问](https://xxc2007.me/nc15/) · [开源仓库](https://github.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School)
 
 https://github.com/user-attachments/assets/368cc8d5-2605-4444-949f-fe6b7a017408
 
 ▶️ [打开 1080p 高清播放器](https://xxc2007.me/nc15/promo/) · [直接打开 1080p 源视频](https://raw.githubusercontent.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/main/docs/promo/nanchang15-promo.mp4)
 
-README 原生预览保持 1920×1080 分辨率；独立播放器与源视频链接继续直接使用纪念册仓库中的 1080p 完整片。
+---
 
-**GEOHOT 地理热点 · 把地理热点做成每天早上更新的地址**
+### GEOHOT 地理热点 · 每天把地理读一遍
 
-盯住台站、卫星机构、统计与区划部门、期刊和研究者的信源：采集、预筛、两次独立打分、按**空间显著性**定门槛，把同一件事的多方报道并成一个事件，每天早上 8 点出一份地理日报。它建在开源框架 AIHOT 之上，行业层换成了地理——引擎一行不改，站名、教材式六分类、信源与评分标准全在 `industry/` 一个文件夹里。站上没有配任何 LLM Key：入选判断是人工写在 fixture 里的编辑决定，而闸门（预筛、两次打分、门槛、归并、热度）全部走真实代码。本地 173 项后端测试 / 16 项前端测试 / 30 项冒烟检查全绿。已上线：[xxc2007.me/geohot](https://xxc2007.me/geohot/)。
+采集公开地理信源，预筛、两次独立打分，再按空间显著性与信源分级决定入选；同一事件的多方报道归在一起。七个分类：自然地理、人文地理、区域地理、地理与政治、地理与历史、地理信息系统、考研。每天上午八点排期出刊，没有值得写的内容就照实空着，每条保留原文地址。
 
-[![GEOHOT 地理热点](https://raw.githubusercontent.com/xxc2007/xxc2007/main/assets/banner-geohot.svg?v=1)](https://github.com/xxc2007/GeoHot)
+基于开源 AIHOT 框架构建，地理行业配置放在 industry/；生产分析由模型执行，本机使用 stub 回放。网站之外还有主题、RSS、公开 API 与 MCP 阅读入口。
 
-[![Live](https://img.shields.io/badge/🌐_线上访问-xxc2007.me%2Fgeohot-D97757)](https://xxc2007.me/geohot/)
-[![Repo](https://img.shields.io/badge/仓库-GeoHot-1F1E1D)](https://github.com/xxc2007/GeoHot)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/xxc2007/GeoHot/blob/main/LICENSE)
+[线上访问](https://xxc2007.me/geohot/) · [开源仓库](https://github.com/xxc2007/GeoHot)
 
+[![GEOHOT 宣传片](https://raw.githubusercontent.com/xxc2007/GeoHot/main/docs/promo/poster.jpg)](https://xxc2007.me/assets/promo/geohot/)
 
-**GIS 学习与制图实践 · 让地理数据开口说话**
+<!-- PROMO-NATIVE-GEOHOT -->
 
-地理科学专业在读，方向是 GIS 与遥感，关注青藏高原地区的气候变化及其带来的影响。常用 ArcGIS / QGIS 做空间分析，用 MapLibre GL 做中文 Web 地图，正在把课程作业沉淀为可复现的开源工作流。
+▶️ [打开 1080p 高清播放器](https://xxc2007.me/assets/promo/geohot/) · [直接打开 1080p 源视频](https://raw.githubusercontent.com/xxc2007/GeoHot/main/docs/promo/geohot-promo.mp4)
 
-**用 AI 做杠杆 · 每个作品都是一次真实问题的解决**
-
-从纪念册网站到 GIS 数据管线，从文档工程到自动化部署脚本——我不写「AI 可能会怎样」的畅想，只留下「我用 AI 做出了什么」的记录。
+<sub>资讯画面为 2026-10-08 拍摄快照；两支新片使用 Video Shotcraft 制作，并参考纪念册宣传片的运镜与展示结构。</sub>
 
 ---
 
-### 我相信的几件事
+### GIS 学习与制图实践
 
-**地理不止是知识，是一种看世界的方式。** 每一个地址背后都有时间和空间的故事，地图是把故事讲清楚的最古老也最现代的方式。
+地理科学专业在读，方向是 GIS 与遥感，关注青藏高原地区的气候变化及其带来的影响。常用 ArcGIS / QGIS 做空间分析，用 MapLibre GL 做中文 Web 地图，正在把课程作业沉淀为可复现的开源工作流。
 
-**做出来比说出来有用。** 纪念册上线那天，它就不再是一个想法。好东西放出去，自己会跑。
+---
 
-**实践是唯一的检验标准。** 学过的每一样东西——地理也好、代码也好——只有用真实作品验证过，才算真的学会。
+## 我相信的几件事
+
+**地理不止是知识，是一种看世界的方式。** 每一个地址背后都有时间和空间的故事。
+
+**做出来比说出来有用。** 放上线之后，作品就能接受真实使用的检验。
+
+**实践是唯一的检验标准。** 学过的东西，用真实作品验证。
 
 ---
 
