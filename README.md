@@ -41,7 +41,7 @@
 
 点击下方播放器即可在线播放。
 
-https://github.com/user-attachments/assets/0e13ff8a-20a2-49e3-9d22-3014d81b9108
+https://github.com/user-attachments/assets/674f7e9e-a87c-4235-b784-5ac5c5f1c822
 
 ▶️ [打开 1080p 高清播放器](https://xxc2007.me/assets/video/) · [直接打开 1080p 源视频](https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/assets/video/intro-promo.mp4)
 
@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/368cc8d5-2605-4444-949f-fe6b7a017408
 
 点击下方播放器即可在线播放。
 
-https://github.com/user-attachments/assets/509954cc-3c76-44fa-b7ed-e2cf7628e52b
+https://github.com/user-attachments/assets/d85128b8-810d-48b8-a6eb-3e032e81011a
 
 ▶️ [打开 1080p 高清播放器](https://xxc2007.me/assets/promo/geohot/) · [直接打开 1080p 源视频](https://raw.githubusercontent.com/xxc2007/GeoHot/main/docs/promo/geohot-promo.mp4)
 
