@@ -26,12 +26,12 @@
 
 ## 🎬 三个网站，三支宣传片
 
-真实网页截图、克制运镜与纸面排版，把每个网站排成约 35 秒的观看路径。点击下方封面打开高清播放器。
+真实网页素材与克制运镜。个人站宣传片已更新为 44 秒新版：真实地球、两个作品与 AI 协作，配以轻柔音乐与自然叠化；纪念册与 GEOHOT 沿用各自的既有影片。点击封面打开高清播放器。
 
 | 个人介绍站 | 青山湖畔的纪念册 | GEOHOT 地理热点 |
 |---|---|---|
-| [![个人站宣传片](https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/docs/promo/poster.jpg)](https://xxc2007.me/assets/promo/) | [![纪念册](https://raw.githubusercontent.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/main/docs/screenshot-hero.png)](https://xxc2007.me/nc15/promo/) | [![GEOHOT 宣传片](https://raw.githubusercontent.com/xxc2007/GeoHot/main/docs/promo/poster.jpg)](https://xxc2007.me/assets/promo/geohot/) |
-| [▶ 1080p 播放](https://xxc2007.me/assets/promo/) | [▶ 1080p 播放](https://xxc2007.me/nc15/promo/) | [▶ 1080p 播放](https://xxc2007.me/assets/promo/geohot/) |
+| [![个人站宣传片](https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/assets/video/poster-hd.jpg)](https://xxc2007.me/assets/video/) | [![纪念册](https://raw.githubusercontent.com/xxc2007/In-memory-of-Nanchang-No.-15-Middle-School/main/docs/screenshot-hero.png)](https://xxc2007.me/nc15/promo/) | [![GEOHOT 宣传片](https://raw.githubusercontent.com/xxc2007/GeoHot/main/docs/promo/poster.jpg)](https://xxc2007.me/assets/promo/geohot/) |
+| [▶ 1080p 播放](https://xxc2007.me/assets/video/) | [▶ 1080p 播放](https://xxc2007.me/nc15/promo/) | [▶ 1080p 播放](https://xxc2007.me/assets/promo/geohot/) |
 
 ---
 
@@ -39,15 +39,15 @@
 
 ### 熊鑫晨的个人介绍站 · 这里是我家
 
-米白纸感、赤陶橙与衬线大字组成个人介绍页。中英两页，从“关于我”走到两个已上线作品、做事方法、信念与联系方式。
+橄榄绿、暖白、大字排版与真实地球组成新版个人介绍页。中英两页，从“关于我”走到两个已上线作品、做事方法、信念与联系方式。
 
 [线上访问](https://xxc2007.me/) · [开源仓库](https://github.com/xxc2007/Introduction-of-XinChen-Xiong)
 
 点击下方播放器即可在线播放。
 
-https://github.com/user-attachments/assets/dcc5e666-2019-4937-b110-1f25e4c18b0c
+[![观看新版个人站宣传片](https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/assets/video/poster-hd.jpg)](https://xxc2007.me/assets/video/)
 
-▶️ [打开 1080p 高清播放器](https://xxc2007.me/assets/promo/) · [直接打开 1080p 源视频](https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/docs/promo/intro-promo.mp4)
+▶️ [打开 1080p 高清播放器](https://xxc2007.me/assets/video/) · [直接打开 1080p 源视频](https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/assets/video/intro-promo.mp4)
 
 ---
 
@@ -77,7 +77,7 @@ https://github.com/user-attachments/assets/0f0d31b0-eaf2-4155-833e-5155f7391110
 
 ▶️ [打开 1080p 高清播放器](https://xxc2007.me/assets/promo/geohot/) · [直接打开 1080p 源视频](https://raw.githubusercontent.com/xxc2007/GeoHot/main/docs/promo/geohot-promo.mp4)
 
-<sub>资讯画面为 2026-10-08 拍摄快照；两支新片使用 Video Shotcraft 制作，并参考纪念册宣传片的运镜与展示结构。</sub>
+<sub>个人站影片于 2026-10-16 更新；GEOHOT 资讯画面为 2026-10-08 拍摄快照。影片使用 Video Shotcraft 制作，参考纪念册宣传片的运镜与展示结构。</sub>
 
 ---
 
