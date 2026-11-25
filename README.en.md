@@ -31,7 +31,7 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 Hi, I’m **Xiong Xinchen** (`@xxc2007`), an undergraduate in Geography Science who builds solo with AI—turning raw ideas into durable, thoughtful websites.
 
@@ -39,7 +39,7 @@ Two threads connect everything I ship: **a changing world in space**, and **pers
 
 ---
 
-## 🗂 Three Live Open-Source Sites
+## Three Live Open-Source Sites
 
 | Project | Highlights & Latest State | Engineering | Links |
 |---|---|---|---|
@@ -68,7 +68,7 @@ Two threads connect everything I ship: **a changing world in space**, and **pers
 
 ---
 
-## 💡 Guiding Beliefs
+## Guiding Beliefs
 
 > 01 · **Geography is not just knowledge—it is a way of seeing the world.**<br>
 > 02 · **Building something beats talking about it.**<br>
@@ -76,7 +76,7 @@ Two threads connect everything I ship: **a changing world in space**, and **pers
 
 ---
 
-## 📈 Star History
+## Star History
 
 <p align="center">
   <a href="https://star-history.com/#xxc2007/GeoHot&xxc2007/In-memory-of-Nanchang-No.-15-Middle-School&xxc2007/Introduction-of-XinChen-Xiong&Date">
