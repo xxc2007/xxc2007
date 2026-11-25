@@ -70,9 +70,9 @@ Two threads connect everything I ship: **a changing world in space**, and **pers
 
 ## Guiding Beliefs
 
-> 01 · **Geography is not just knowledge—it is a way of seeing the world.**<br>
-> 02 · **Building something beats talking about it.**<br>
-> 03 · **Practice is the only real test.**
+> 01 · **See the world through geography; all things have their measure.**<br>
+> 02 · **Build with code, so every thought can be touched.**<br>
+> 03 · **Hold to what is real; let time answer in its own time.**
 
 ---
 
