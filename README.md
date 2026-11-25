@@ -60,7 +60,7 @@
       <sub><b>青山湖畔的纪念册</b><br>红砖楼与香樟记得 · 十种语言</sub>
     </td>
     <td width="33.3%" align="center">
-      <a href="https://xxc2007.me/"><img src="https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/assets/images/readme-hero-desktop.png" alt="xxc2007.me 个人展示站" width="100%"></a><br>
+      <a href="https://xxc2007.me/"><img src="https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/assets/images/readme-hero-desktop.png?v=1c6836b61a" alt="xxc2007.me 个人展示站" width="100%"></a><br>
       <sub><b>xxc2007.me · 个人主页</b><br>一个人，与 AI 一起</sub>
     </td>
   </tr>

@@ -60,7 +60,7 @@ Two threads connect everything I ship: **a changing world in space**, and **pers
       <sub><b>Memorial by Qingshan Lake</b><br>Red bricks &amp; camphor trees remember</sub>
     </td>
     <td width="33.3%" align="center">
-      <a href="https://xxc2007.me/en/"><img src="https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/assets/images/readme-hero-desktop.png" alt="xxc2007.me Personal Website" width="100%"></a><br>
+      <a href="https://xxc2007.me/en/"><img src="https://raw.githubusercontent.com/xxc2007/Introduction-of-XinChen-Xiong/main/assets/images/readme-hero-desktop.png?v=1c6836b61a" alt="xxc2007.me Personal Website" width="100%"></a><br>
       <sub><b>xxc2007.me · Personal Site</b><br>One person, building with AI</sub>
     </td>
   </tr>
