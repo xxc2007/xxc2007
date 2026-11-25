@@ -52,7 +52,7 @@
 <table>
   <tr>
     <td width="33.3%" align="center">
-      <a href="https://xxc2007.me/geohot/"><img src="https://raw.githubusercontent.com/xxc2007/GeoHot/main/docs/shots/home-light.png" alt="GEOHOT 地理热点" width="100%"></a><br>
+      <a href="https://xxc2007.me/geohot/"><img src="https://raw.githubusercontent.com/xxc2007/GeoHot/main/docs/shots/home-light.png?v=e2d57f52f8" alt="GEOHOT 地理热点" width="100%"></a><br>
       <sub><b>GEOHOT · 地理热点</b><br>每天把地理读一遍 · 中英双语</sub>
     </td>
     <td width="33.3%" align="center">

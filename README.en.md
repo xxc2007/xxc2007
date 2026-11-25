@@ -52,7 +52,7 @@ Two threads connect everything I ship: **a changing world in space**, and **pers
 <table>
   <tr>
     <td width="33.3%" align="center">
-      <a href="https://xxc2007.me/geohot/en/"><img src="https://raw.githubusercontent.com/xxc2007/GeoHot/main/docs/shots/home-light.png" alt="GEOHOT · Geography in Focus" width="100%"></a><br>
+      <a href="https://xxc2007.me/geohot/en/"><img src="https://raw.githubusercontent.com/xxc2007/GeoHot/main/docs/shots/home-light.png?v=e2d57f52f8" alt="GEOHOT · Geography in Focus" width="100%"></a><br>
       <sub><b>GEOHOT · Geography in Focus</b><br>A daily reading of a changing world</sub>
     </td>
     <td width="33.3%" align="center">
