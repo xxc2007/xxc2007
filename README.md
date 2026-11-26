@@ -31,7 +31,7 @@
 
 ---
 
-## 关于我
+## 🧭 关于我
 
 你好，我是 **熊鑫晨**（`@xxc2007`），地理科学专业在读，习惯「一个人，与 AI 一起」把念头打磨成真实上线、经得起长期访问的网页。
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 三个已上线的开源站点
+## 🗂 三个已上线的开源站点
 
 | 项目 | 定位与最新进展 | 工程取舍 | 入口 |
 |---|---|---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## 原则与信念
+## 💡 原则与信念
 
 > 01 · **以地理观世，知万象皆有尺度。**<br>
 > 02 · **以代码造物，使所思皆可触碰。**<br>
@@ -76,7 +76,7 @@
 
 ---
 
-## Star History
+## 📈 Star History
 
 <p align="center">
   <a href="https://star-history.com/#xxc2007/GeoHot&xxc2007/In-memory-of-Nanchang-No.-15-Middle-School&xxc2007/Introduction-of-XinChen-Xiong&Date">
