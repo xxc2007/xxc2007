@@ -70,9 +70,9 @@ Two threads connect everything I ship: **a changing world in space**, and **pers
 
 ## 💡 Guiding Beliefs
 
-> 01 · **See the world through geography; all things have their measure.**<br>
-> 02 · **Build with code, so every thought can be touched.**<br>
-> 03 · **Hold to what is real; let time answer in its own time.**
+> 01 · **Through geography, see the scale in all things.**<br>
+> 02 · **Through code, give quiet thought a tangible form.**<br>
+> 03 · **Through what is real, let time answer slowly.**
 
 ---
 
